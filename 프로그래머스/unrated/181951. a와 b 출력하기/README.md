@@ -1,10 +1,10 @@
 # [level unrated] a와 b 출력하기 - 181951 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181951) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=java) 
 
 ### 성능 요약
 
-메모리: 7.52 MB, 시간: 18.97 ms
+메모리: 73.5 MB, 시간: 153.81 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 0일 19:49:18
+2023년 12월 1일 9:35:0
 
 ### 문제 설명
 
