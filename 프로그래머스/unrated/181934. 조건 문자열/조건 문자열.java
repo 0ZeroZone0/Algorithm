@@ -14,7 +14,6 @@ class Solution {
                 return n < m ? 1 : 0;
             }
         }
-
-        return 0; // 기본적으로 0을 반환 (조건에 맞지 않는 경우)
+        return 0; 
     }
 }
